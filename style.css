@@ -63,6 +63,7 @@ button{
     border: none;
     font-weight: 50;
     margin: 10px;
+    cursor:pointer;
 }
 .number{
     height: 60px;
